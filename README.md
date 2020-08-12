@@ -41,3 +41,4 @@ The performance is relatively bad because the small data sample and it was imbal
 
 ## Decision Tree Visualization
 Decision tree visualization is presented below
+![alt text](https://github.com/novaldi21/ds_attrition_project/blob/master/attrition.png "Decision Tree")

@@ -37,7 +37,7 @@ I tried Decision Tree classifier with entropy approach and maximum three dept of
 ## Model performance
 The Decision Tree model performance is presented. 
 *	**Decision Tree** : Accuracy = 0.57
-The performance is relatively bad because the small data sample and it was imbalanced with the ammount of the attributes.
+The performance is relatively bad because the small sample siza and it was imbalanced between the sample siza and the ammount of the attributes.
 
 ## Decision Tree Visualization
 Decision tree visualization is presented below

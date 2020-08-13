@@ -42,3 +42,5 @@ The performance is relatively low because the small sample size and it was imbal
 ## Decision Tree Visualization
 Decision tree visualization is presented below
 ![alt text](https://github.com/novaldi21/ds_attrition_project/blob/master/attrition.png "Decision Tree")
+
+From the picture, it can be seen that employees that are predicted will get attrition are employees with monthly income below $.2057.5 
